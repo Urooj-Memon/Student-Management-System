@@ -1,0 +1,21 @@
+{
+  "name": "s2tud5-student-management-system",
+  "version": "1.0.0",
+  "description": "This is cli based student management system",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Urooj Memon",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  }
+}
